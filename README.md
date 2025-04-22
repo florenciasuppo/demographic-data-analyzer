@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-This project analyzes demographic data from the [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult).  
+This project is part of the [FreeCodeCamp](https://www.freecodecamp.org/) curriculum and analyzes demographic data from the [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult).  
 It uses Python and the Pandas library to calculate statistics such as average age, education levels, income distributions, and more.
 
 ##What it does
